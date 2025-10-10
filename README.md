@@ -55,10 +55,10 @@
 <div align="center">
   
   <!-- 깃허브 활동 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=계정명&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wonguwon&show_icons=true&theme=radical&hide_border=true" height="180px"/>
 
   <!-- 가장 많이 사용한 언어 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=계정명&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonguwon&layout=compact&theme=radical&hide_border=true" height="180px"/>
 
 </div>
 
