@@ -67,7 +67,7 @@
 ## 🌍 나와 연결하기
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-프로필-blue?style=flat-square&logo=LinkedIn&logoColor=white)](링크드인주소)
 [![Gmail](https://img.shields.io/badge/이메일-보내기-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:메일주소)
-[![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](노션포트폴리오주소)
+[![Notion](https://img.shields.io/badge/포트폴리오-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://plastic-star-599.notion.site/Git-GitHub-288435fcbd9d80a9a500ff9767a48050)
 
 ---
 
