@@ -25,14 +25,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-## 📊 GitHub Statistics
+## 📊 GitHub Analysis
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wonguwon&theme=radical" height="180px"/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=wonguwon&show_icons=true&theme=radical&hide_border=true" height="180px" alt="Jiwon's GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wonguwon&layout=compact&theme=radical&hide_border=true" height="180px" alt="Jiwon's Top Langs"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wonguwon&theme=radical" height="180px"/>
 </div>
 
 ---
