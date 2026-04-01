@@ -35,7 +35,7 @@
 ---
 
 ## 🌍 Connect with Me
-[![Website](https://img.shields.io/badge/Portfolio-Site-blue?style=flat-square&logo=Notion&logoColor=white)](https://edu.oneground.ai.kr)
+[![Official Site](https://img.shields.io/badge/Official_Site-Visit-00A896?style=flat-square&logo=google-chrome&logoColor=white)](https://edu.oneground.ai.kr)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@mentor_oneground)
 [![Gmail](https://img.shields.io/badge/Email-one@oneground.ai.kr-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:one@oneground.ai.kr)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk-Consulting-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black)](https://open.kakao.com/o/sugiSioi)
