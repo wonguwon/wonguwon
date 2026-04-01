@@ -1,12 +1,13 @@
-![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jiwon%20Choi%20|%20Knowledge%20Communicator&fontAlign=30&fontSize=30&textBg=true&desc=복잡한%20기술을%20일상의%20다정한%20대화로%20풀어내는%20사람&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Jiwon%20Choi%20|%20Knowledge%20Communicator&fontAlign=50&fontSize=30&desc=복잡한%20기술을%20일상의%20대화로%20풀어내는%20사람&descAlign=50&descAlignY=70&height=200)
+
+<br/>
 
 ---
-
 ## 👋 About Me
-- [cite_start]🎙️ **지식 전달자(Knowledge Communicator):** 복잡한 코딩과 낯선 AI를 누구나 이해할 수 있는 언어로 풀어냅니다. 
-- [cite_start]🚀 **0 to 1 Builder:** 스타트업의 '첫 번째 개발자'로 시작해 서비스 기획부터 배포까지 전 과정을 주도했습니다. [cite: 10, 35]
-- [cite_start]🎓 **검증된 교육 전문가:** K-DT 등 7개 과정 평균 평점 **4.8/5.0**, 100명 이상의 개발자를 배출했습니다. [cite: 15, 16, 42]
-- [cite_start]🤖 **AX(AI 전환) 가이드:** 기업 대상 생성형 AI 활용 및 실무 자동화 교육을 통해 디지털 전환을 돕습니다. [cite: 17, 44]
+- 🎙️ **지식 전달자(Knowledge Communicator):** 복잡한 코딩과 낯선 AI를 누구나 이해할 수 있는 언어로 풀어냅니다.
+- 🚀 **0 to 1 Builder:** 스타트업의 '첫 번째 개발자'로 시작해 서비스 기획부터 배포까지 전 과정을 주도했습니다.
+- 🎓 **검증된 교육 전문가:** K-DT 등 7개 과정 평균 평점 **4.8/5.0**, 100명 이상의 개발자를 배출했습니다.
+- 🤖 **AX(AI 전환) 가이드:** 기업 대상 생성형 AI 활용 및 실무 자동화 교육을 통해 디지털 전환을 돕습니다.
 
 ---
 
@@ -25,9 +26,13 @@
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wonguwon&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonguwon&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wonguwon&show_icons=true&theme=radical&hide_border=true" height="180px" alt="Jiwon's GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wonguwon&layout=compact&theme=radical&hide_border=true" height="180px" alt="Jiwon's Top Langs"/>
+
 </div>
 
 ---
